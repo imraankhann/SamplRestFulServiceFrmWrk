@@ -1,0 +1,5 @@
+package com.imran.utills;
+
+public enum EndpointURL01 {
+
+}

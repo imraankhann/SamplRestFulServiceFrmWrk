@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.jayway.restassured.response.Response"/>
+<fullyQualifiedTypeName name="com.jayway.restassured.specification.RequestSpecification"/>
+<fullyQualifiedTypeName name="com.jayway.restassured.RestAssured"/>
+<fullyQualifiedTypeName name="com.jayway.restassured.http.ContentType"/>
+</qualifiedTypeNameHistroy>

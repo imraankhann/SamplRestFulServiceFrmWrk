@@ -1,0 +1,7 @@
+package com.imran.utills;
+
+public enum EndpointURL {
+	
+//	GET_EVENT("/id");
+
+}
